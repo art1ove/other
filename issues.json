@@ -1,0 +1,39 @@
+{
+  "CentOS 6": [
+    {
+      "release": "25.P1.el6_2.1", 
+      "version": "4.1.1", 
+      "issue": "CESA-2011:1819", 
+      "pkg": "dhclient", 
+      "severity": "Moderate"
+    }, 
+    {
+      "release": "25.P1.el6_2.1", 
+      "version": "4.1.1", 
+      "issue": "CESA-2011:1819", 
+      "pkg": "dhcp-common", 
+      "severity": "Moderate"
+    }, 
+    {
+      "release": "15.el6_1.1", 
+      "version": "1.900.1", 
+      "issue": "CESA-2011:1807", 
+      "pkg": "jasper-libs", 
+      "severity": "Important"
+    }, 
+    {
+      "release": "66.el4.centos", 
+      "version": "1.0.9", 
+      "issue": "CESA-2010:0967", 
+      "pkg": "updates/x86_64/RPMS/seamonkey-devel", 
+      "severity": "Critical"
+    }, 
+    {
+      "release": "66.el4.centos", 
+      "version": "1.0.9", 
+      "issue": "CESA-2010:0967", 
+      "pkg": "updates/x86_64/RPMS/seamonkey-dom-inspector", 
+      "severity": "Critical"
+    }
+  ]
+}
